@@ -34,10 +34,14 @@ ul li:hover{
     background-color: #098EFF;
 }
 
-#imglogo{
+.imglogo{
     display: flex;
     justify-content: space-between;
-    font-size: 25px;
+}
+
+.logo{
+    height: 100px;
+    width: 85px;
 }
 
 
