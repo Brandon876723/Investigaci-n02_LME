@@ -28,6 +28,7 @@ ul li{
     padding: 0px 20px;
     margin-bottom: 3%;
     color: #8b8b8b;
+    text-decoration: none;
 }
 
 ul li:hover{
