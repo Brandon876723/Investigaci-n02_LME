@@ -37,9 +37,6 @@ ul li:hover{
 .imglogo{
     display: flex;
     justify-content: space-between;
-}
-
-.cenLogo{
     font-size: 25px;
 }
 
