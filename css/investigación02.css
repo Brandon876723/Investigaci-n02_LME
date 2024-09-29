@@ -51,7 +51,6 @@ ul li:hover{
 
 .container{
     color: white;
-    margin-top: 35px;
 }
 
 .s{
@@ -67,4 +66,9 @@ ul li:hover{
 .sss{
     text-decoration: none;
     color: white;
+}
+
+.xd{
+    color: #50cce6;
+    text-transform: uppercase;
 }
