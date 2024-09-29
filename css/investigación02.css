@@ -90,3 +90,8 @@ ul li:hover{
     color: #50cce6;
     text-transform: uppercase;
 }
+
+img.feautured{
+    display: flex;
+    justify-content: space-between;
+}
