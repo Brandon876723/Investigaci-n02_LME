@@ -72,3 +72,16 @@ ul li:hover{
     color: #50cce6;
     text-transform: uppercase;
 }
+
+.sx{
+    color: black;
+}
+
+.xyz, .xd{
+    margin-top: 35px;
+}
+
+.gg{
+    height: 300px;
+    width: 450px;
+}
