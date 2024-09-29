@@ -96,3 +96,17 @@ img.feautured{
     justify-content: space-between;
 }
 
+.carga{
+    display: flex;
+    justify-content: center;
+}
+
+.caja{
+    padding: 10px;
+    margin: 0 5px;
+}
+
+.casa{
+    padding: 10px;
+    margin: 0 5px;
+}
